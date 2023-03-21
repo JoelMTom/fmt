@@ -11,7 +11,9 @@ local.properties
 build/
 support/.cxx
 
-bin/
+
+bin/*
+bin-int/
 /_CPack_Packages
 /CMakeScripts
 /doc/doxyxml
